@@ -12,4 +12,4 @@ This code is OLD! Is has not been updated in a long time, as there is no need to
 
 ## Contact
 
-If you have any quextsions, feel free to reach out at chris@59north.com or [@ZeroKoll](https://twitter.com/zerokoll)
+If you have any questions, feel free to reach out at [@ZeroKoll](https://twitter.com/zerokoll)
